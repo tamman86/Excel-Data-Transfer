@@ -417,7 +417,6 @@ class ExcelProcessorApp:
 
 
 if __name__ == '__main__':
-
     ''' Create dictionary for column conversion '''
     letter_convert = {}
     count = 1
